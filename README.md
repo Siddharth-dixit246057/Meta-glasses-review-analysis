@@ -7,7 +7,7 @@ The goal is to extract meaningful business insights related to customer satisfac
 # Tools Used
 - MySQL (XAMPP)
 - SQL (Joins, Aggregations, CASE, Filtering)
-- GitHub for version control
+- Power query editor for cleaning
 
 # Dataset Summary
 - Total Reviews: 10,000
