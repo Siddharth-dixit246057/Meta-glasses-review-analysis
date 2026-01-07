@@ -30,5 +30,5 @@ The goal is to extract meaningful business insights related to customer satisfac
 #  Project Structure
 Refer to the `sql_queries` folder for all SQL scripts and `screenshots` for query outputs.
 
-## 🚀 Conclusion
+# Conclusion
 This project demonstrates practical SQL skills, analytical thinking, and the ability to translate raw data into actionable business insights.
