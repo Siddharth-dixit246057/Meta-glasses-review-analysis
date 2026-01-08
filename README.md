@@ -32,3 +32,17 @@ Refer to the `sql_queries` folder for all SQL scripts and `screenshots` for quer
 
 # Conclusion
 This project demonstrates practical SQL skills, analytical thinking, and the ability to translate raw data into actionable business insights.
+
+# 🧱 Data Schema
+
+| Column Name            | Description |
+|------------------------|-------------|
+| reviewID               | Unique review identifier |
+| rating                 | Customer rating (1–5) |
+| review                 | Review text |
+| helpful                | Number of helpful votes |
+| verifiedPurchase       | Verified buyer flag |
+| is_positive_review     | Sentiment label (1 = positive) |
+| date                   | Review date |
+| country                | Reviewer's country |
+(The dataset is downloaded from kaggle)
